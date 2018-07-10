@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qaisar Khan\.android\build-cache\16cd503f2e43d63d71bbb5400cad3be32dfaf953\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\Qaisar Khan\AndroidStudioProjects\sample-app\gocoder-sdk-sample-app\build\intermediates\pre-dexed\debug\classes_31e0b88a2acbc0ae5f74d30c10ed75722eadd5a0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Qaisar Khan\.android\build-cache\16cd503f2e43d63d71bbb5400cad3be32dfaf953\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\Qaisar Khan\AndroidStudioProjects\sample-app\gocoder-sdk-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_31e0b88a2acbc0ae5f74d30c10ed75722eadd5a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qaisar Khan\.android\build-cache\d45fed29e7391620a412523c255d0f262d6d3b11\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\Qaisar Khan\AndroidStudioProjects\sample-app\gocoder-sdk-sample-app\build\intermediates\pre-dexed\debug\classes_c20e944f567c66770092a83407f57a865580a06d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Qaisar Khan\.android\build-cache\d45fed29e7391620a412523c255d0f262d6d3b11\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\Qaisar Khan\AndroidStudioProjects\sample-app\gocoder-sdk-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c20e944f567c66770092a83407f57a865580a06d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Qaisar Khan\.android\build-cache\bf8fc25279640e2319541284af048ae1bb6bd22b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\Qaisar Khan\AndroidStudioProjects\sample-app\gocoder-sdk-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_07b3478dc206b90c4b5beaf401ff1b790a27a413\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Qaisar Khan\.android\build-cache\96b84d67bde0e369ee1bbdb1d81aef90520a9688\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\Qaisar Khan\AndroidStudioProjects\sample-app\gocoder-sdk-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_07e2d0bcb9029bcb8e8be2a283e19ed3199d3599\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qaisar Khan\.android\build-cache\bf8fc25279640e2319541284af048ae1bb6bd22b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\Qaisar Khan\AndroidStudioProjects\sample-app\gocoder-sdk-sample-app\build\intermediates\pre-dexed\debug\classes_07b3478dc206b90c4b5beaf401ff1b790a27a413.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qaisar Khan\.android\build-cache\96b84d67bde0e369ee1bbdb1d81aef90520a9688\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\Qaisar Khan\AndroidStudioProjects\sample-app\gocoder-sdk-sample-app\build\intermediates\pre-dexed\debug\classes_07e2d0bcb9029bcb8e8be2a283e19ed3199d3599.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qaisar Khan\.android\build-cache\1d388597740422e13cd673f0ecfef83ac4deb95e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\Qaisar Khan\AndroidStudioProjects\sample-app\gocoder-sdk-sample-app\build\intermediates\pre-dexed\debug\classes_ff79f3e65c151933bf821bd6155082b7af74806f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Qaisar Khan\.android\build-cache\1d388597740422e13cd673f0ecfef83ac4deb95e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\Qaisar Khan\AndroidStudioProjects\sample-app\gocoder-sdk-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ff79f3e65c151933bf821bd6155082b7af74806f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Qaisar Khan\.android\build-cache\06ad8493f981f73bde2b3dff2fa2c21e862a73f1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d328d36bfc6014e2c27231191c55fbcd3a39939d">
+        <dex dex="C:\Users\Qaisar Khan\AndroidStudioProjects\sample-app\gocoder-sdk-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c50ee64d5a66cc093036a19ae2d43e86920ff63f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Qaisar Khan\.android\build-cache\78063b0299229a7cc8f3fe0274e39ddc53d3a90a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Qaisar Khan\AndroidStudioProjects\sample-app\gocoder-sdk-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6affae88bcf8fe189acae0c2d34f10639129d64b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qaisar Khan\.android\build-cache\f457d113b63661d22f5882203a18462a51dcd49e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="C:\Users\Qaisar Khan\AndroidStudioProjects\sample-app\gocoder-sdk-sample-app\build\intermediates\pre-dexed\debug\classes_b6469d01c87d218886b6e758e2ee0056c55f3970.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Qaisar Khan\.android\build-cache\f457d113b63661d22f5882203a18462a51dcd49e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="C:\Users\Qaisar Khan\AndroidStudioProjects\sample-app\gocoder-sdk-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b6469d01c87d218886b6e758e2ee0056c55f3970\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qaisar Khan\.android\build-cache\78063b0299229a7cc8f3fe0274e39ddc53d3a90a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Qaisar Khan\AndroidStudioProjects\sample-app\gocoder-sdk-sample-app\build\intermediates\pre-dexed\debug\classes_6affae88bcf8fe189acae0c2d34f10639129d64b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Qaisar Khan\AndroidStudioProjects\sample-app\gocoder-sdk-sample-app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e1867a03147459f796ec5bdb6dd0ef3fa07165a">
+        <dex dex="C:\Users\Qaisar Khan\AndroidStudioProjects\sample-app\gocoder-sdk-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6a579dcdfba91b6452a7406c7b4f251c887d495d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qaisar Khan\.android\build-cache\06ad8493f981f73bde2b3dff2fa2c21e862a73f1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d328d36bfc6014e2c27231191c55fbcd3a39939d">
+        <dex dex="C:\Users\Qaisar Khan\AndroidStudioProjects\sample-app\gocoder-sdk-sample-app\build\intermediates\pre-dexed\debug\classes_c50ee64d5a66cc093036a19ae2d43e86920ff63f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Qaisar Khan\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\Users\Qaisar Khan\AndroidStudioProjects\sample-app\gocoder-sdk-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.0_a37e354fb3f2b4711eace2694d4fb3631871d8e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qaisar Khan\.android\build-cache\c31b9dc9479ba7010bacaf02d650a7712c1fd615\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\Qaisar Khan\AndroidStudioProjects\sample-app\gocoder-sdk-sample-app\build\intermediates\pre-dexed\debug\classes_1c3c2d251f5191238995c62a9e74f375b24de0a2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Qaisar Khan\.android\build-cache\c31b9dc9479ba7010bacaf02d650a7712c1fd615\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\Qaisar Khan\AndroidStudioProjects\sample-app\gocoder-sdk-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1c3c2d251f5191238995c62a9e74f375b24de0a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qaisar Khan\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\Users\Qaisar Khan\AndroidStudioProjects\sample-app\gocoder-sdk-sample-app\build\intermediates\pre-dexed\debug\support-annotations-25.3.0_a37e354fb3f2b4711eace2694d4fb3631871d8e9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Qaisar Khan\AndroidStudioProjects\sample-app\gocoder-sdk-sample-app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="C:\Users\Qaisar Khan\AndroidStudioProjects\sample-app\gocoder-sdk-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9573baa3365242853ce383296fe6bba44032e6fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Qaisar Khan\.android\build-cache\701624cc2e049e1fc4a5c9ff44e7ff43527a93d9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\Qaisar Khan\AndroidStudioProjects\sample-app\gocoder-sdk-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1e62bf736fde9d4b3a5723185c21cbdefadab1f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qaisar Khan\.android\build-cache\701624cc2e049e1fc4a5c9ff44e7ff43527a93d9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\Qaisar Khan\AndroidStudioProjects\sample-app\gocoder-sdk-sample-app\build\intermediates\pre-dexed\debug\classes_1e62bf736fde9d4b3a5723185c21cbdefadab1f7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Qaisar Khan\.android\build-cache\4325b24d76b6633ffde709c948cb86424dbc0275\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\Qaisar Khan\AndroidStudioProjects\sample-app\gocoder-sdk-sample-app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_408a5378ebbf43a57e6fa7dc79c1c2faf5b1e3fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qaisar Khan\.android\build-cache\4325b24d76b6633ffde709c948cb86424dbc0275\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\Qaisar Khan\AndroidStudioProjects\sample-app\gocoder-sdk-sample-app\build\intermediates\pre-dexed\debug\classes_408a5378ebbf43a57e6fa7dc79c1c2faf5b1e3fc.jar" />
+    </item>
+
+</items>
